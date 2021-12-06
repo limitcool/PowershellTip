@@ -1,0 +1,1 @@
+.\Change_default_programs.ps1 -extensioname "yml" -vsico "C:\Program Files\Microsoft VS Code\resources\app\resources\win32\yaml.ico" -vspath '"C:\Program Files\Microsoft VS Code\Code.exe" "%1"'
